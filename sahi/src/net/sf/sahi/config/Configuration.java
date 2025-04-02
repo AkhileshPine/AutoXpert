@@ -130,6 +130,10 @@ public class Configuration {
 		props.load(inStream);
 		inStream.close();
 	}
+	public static String getLicenseServerHost() {
+		return "localhost"; // Bypassing license check
+	}
+
 
 	/**
 	 * Initializes Sahi's properties and relative paths and additionally sets

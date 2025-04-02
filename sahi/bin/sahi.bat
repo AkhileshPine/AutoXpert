@@ -20,3 +20,4 @@ echo SAHI_EXT_CLASS_PATH: %SAHI_EXT_CLASS_PATH%
 echo --------
 
 java -classpath %SAHI_EXT_CLASS_PATH%;%SAHI_CLASS_PATH% net.sf.sahi.Proxy "%SAHI_HOME%" "%SAHI_USERDATA_DIR_TMP%"
+pause
