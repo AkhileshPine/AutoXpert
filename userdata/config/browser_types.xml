@@ -1,0 +1,11 @@
+<browserType>
+    <name>firefox</name>
+    <displayName>Firefox</displayName>
+    <icon>firefox.png</icon>
+    <path>$ProgramFiles\Mozilla Firefox\firefox.exe</path>
+    <options>-profile "$userDir/browser/ff/profiles/sahi$threadNo" -private-window -purgecaches -no-remote</options>
+    <processName>firefox.exe</processName>
+    <capacity>5</capacity>
+    <useSystemProxy>false</useSystemProxy>
+    <force>false</force>
+  </browserType>

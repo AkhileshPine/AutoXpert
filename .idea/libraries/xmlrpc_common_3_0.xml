@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="xmlrpc-common-3.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sahi/extlib/xmlrpc/xmlrpc-common-3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sahi/extlib/xmlrpc/xmlrpc-client-3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sahi/extlib/xmlrpc/ws-commons-util-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sahi/extlib/test/log4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sahi/extlib/test/junit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sahi/extlib/test/jmock-cglib-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sahi/extlib/test/jmock-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sahi/extlib/test/cglib-nodep-2.1_3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sahi/extlib/rhino/js.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sahi/extlib/mail/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sahi/extlib/mail/activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sahi/extlib/izpack/standalone-compiler411.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sahi/extlib/izpack/standalone-compiler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sahi/extlib/db/ojdbc14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sahi/extlib/db/mysql.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sahi/extlib/db/mysql-connector-java-5.0.4-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sahi/extlib/apc/commons-codec-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sahi/extlib/ant/ant.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sahi/extlib/ant/ant-testutil.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sahi/extlib/ant/ant-launcher.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/sahi/extlib/test/junit.jar!/" />
+    </SOURCES>
+  </library>
+</component>
